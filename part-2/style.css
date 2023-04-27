@@ -1,0 +1,14 @@
+.tweet{
+background-color: rgb(163, 226, 226);
+padding: 20px;
+margin-top: 5px;
+}
+.tweet h2{
+    text-decoration: underline;
+}
+.tweet h4{
+    width: fit-content;
+    margin-left: 10%;
+    padding-right: 10%;
+    border: 1px solid black;
+}
